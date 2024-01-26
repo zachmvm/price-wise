@@ -27,7 +27,7 @@ const Home = async () => {
             </h1>
 
             <p className="mt-6">
-              Powerful, self-served product and growth analytics to help you convert, engage, and retain more.
+              Enter Amazon link and once you hit 'Search' view your product below and recieve updates on pricing to help you save money!
             </p>
 
             <Searchbar />
