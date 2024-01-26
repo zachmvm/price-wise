@@ -27,7 +27,7 @@ const Home = async () => {
             </h1>
 
             <p className="mt-6">
-              Enter Amazon link and once you hit 'Search' view your product below and recieve updates on pricing to help you save money!
+              Enter Amazon link and hit Search to see your product below under Trending. View product details and recieve updates on pricing to help you save money!
             </p>
 
             <Searchbar />
